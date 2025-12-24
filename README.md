@@ -5,6 +5,12 @@
   🌱 Passionné par le Web, Java, Spring Boot & JavaScript
 </p>
 
+<div align="center">
+  <a href="https://mehdaoui-zakariya.github.io/med/#" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blueviolet?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -26,6 +32,9 @@
 ## 🌐 Connect With Me
 
 <div align="center">
+  <a href="https://mehdaoui-zakariya.github.io/med/#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/zakariya-mehdaoui-7a9301255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -36,27 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEHDAOUI-ZAKARIYA&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEHDAOUI-ZAKARIYA&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHDAOUI-ZAKARIYA&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MEHDAOUI-ZAKARIYA&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 ---
 
