@@ -39,9 +39,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MEHDAOUI-ZAKARIYA&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MEHDAOUI-ZAKARIYA&theme=dracula&row=1&column=6" height="150" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEHDAOUI-ZAKARIYA&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MEHDAOUI-ZAKARIYA&show_icons=true&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEHDAOUI-ZAKARIYA&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MEHDAOUI-ZAKARIYA&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -51,7 +65,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEHDAOUI-ZAKARIYA/MEHDAOUI-ZAKARIYA/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEHDAOUI-ZAKARIYA/MEHDAOUI-ZAKARIYA/output/pacman-contribution-graph.svg">
-  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/MEHDAOUI-ZAKARIYA/MEHDAOUI-ZAKARIYA/output/pacman-contribution-graph.svg">
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/MEHDAOUI-ZAKARIYA/MEHDAOUI-ZAKARIYA/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
 
 ---
