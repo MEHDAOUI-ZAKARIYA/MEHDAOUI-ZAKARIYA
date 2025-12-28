@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey , I'm Mehdaoui </h1>
 
 <p align="center">
-  👨‍💻 Software Engineer | Full-Stack Developer <br/>
-  🌱 Passionné par le Web, Java, Spring Boot & JavaScript
+    Software Engineer | Full-Stack Developer <br/>
+   Passionné par le Web, Java, Spring Boot & JavaScript
 </p>
 
 <div align="center">
