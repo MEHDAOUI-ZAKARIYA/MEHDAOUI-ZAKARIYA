@@ -3,7 +3,7 @@
 <p align="center">
     Software Engineer | Full-Stack Developer <br/>
    Passionné par le Web, Java, Spring Boot & JavaScript 
-                 This My Portfolio 
+                 
 </p>
 
 <div align="center">
